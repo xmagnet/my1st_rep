@@ -6,3 +6,5 @@ my1st_rep
 변경, 추가 화일의 저장후 Stage*n 커밋*n, then Push?
 
 지금은 Stage 상태 변경 테스트
+
+3 Stage changed
