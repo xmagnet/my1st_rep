@@ -7,4 +7,4 @@
 
    변경, 추가 화일의 저장후 Stage+ ->Changed Stages
    커밋, n커밋
-   Push
+   Push(커밋을 포함하나?)
