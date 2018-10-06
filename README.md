@@ -7,5 +7,9 @@
 
    변경, 추가 화일의 저장후 Stage+ ->Changed Stages
    커밋, n커밋
+<<<<<<< HEAD
    
    Push (커밋이 포함된 액션인가?)
+=======
+   Push(커밋을 포함하나?)
+>>>>>>> 77872fae2274cbaa9ee1710ddf97e7c0775d6f2f
