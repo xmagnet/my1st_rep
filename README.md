@@ -8,3 +8,6 @@ my1st_rep
 지금은 Stage 상태 변경 테스트
 
 3 Stage changed
+
+Stage No4
+Stage No5
