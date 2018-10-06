@@ -5,8 +5,8 @@
 
 깃헙의 _리포_ 클론을 워크스페이스로 지정
 
-   변경, 추가 화일의 저장후 Stage+ ->Changed Stages
-   커밋, n커밋
+   >변경, 추가 화일의 저장후 Stage+ ->Changed Stages
+   >커밋, n커밋
 
  ###  Push (커밋이 포함된 액션인가?)
 
